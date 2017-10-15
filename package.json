@@ -1,6 +1,6 @@
 {
   "name": "@adam_vegh/npm_practice",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "npm practice",
   "main": "index.js",
   "scripts": {
