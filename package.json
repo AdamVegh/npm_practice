@@ -1,0 +1,25 @@
+{
+  "name": "@adam_vegh/npm_practice",
+  "version": "1.0.0",
+  "description": "npm practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Vegh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/AdamVegh/npm_practice.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/AdamVegh/npm_practice/issues"
+  },
+  "homepage": "https://github.com/AdamVegh/npm_practice#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
